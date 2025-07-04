@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 MODE=""
 ARG_VALUE=""
@@ -77,17 +77,16 @@ check_proc_io_access() {
 }
 
 rouger_sayings() {
-    sayings=(
-        "👽 Rouger: You humans think IO is simple? Ha! I’ve got like a dozen personalities arguing over disk reads!"
-        "👽 Rouger: Don’t even try to touch my /proc/io or I’ll abduct your boring processes!"
-        "👽 Rouger: Earth IO is so slow... back in my galaxy we stream thoughts directly to devices!"
-        "👽 Rouger: I don’t listen to your family, nor your commands, just like your kernel ignoring interrupts."
-        "👽 Rouger: Sometimes I wanna explode like a misbehaving IO scheduler... but then I just float in space instead."
-        "👽 Rouger: You want help? Ha! I’m too busy juggling my inner chaos — with 17 personalities screaming at once."
-    )
-    for line in "${sayings[@]}"; do
-        echo "${MAGENTA}$line${RESET}"
-    done
+    echo "$MAGENTA"
+    cat <<EOF
+👽 Rouger: You humans think IO is simple? Ha! I’ve got like a dozen personalities arguing over disk reads!
+👽 Rouger: Don’t even try to touch my /proc/io or I’ll abduct your boring processes!
+👽 Rouger: Earth IO is so slow... back in my galaxy we stream thoughts directly to devices!
+👽 Rouger: I don’t listen to your family, nor your commands, just like your kernel ignoring interrupts.
+👽 Rouger: Sometimes I wanna explode like a misbehaving IO scheduler... but then I just float in space instead.
+👽 Rouger: You want help? Ha! I’m too busy juggling my inner chaos — with 17 personalities screaming at once.
+EOF
+    echo "$RESET"
 }
 
 rouger_help() {
