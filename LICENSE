@@ -1,4 +1,4 @@
- GNU KÜÇÜK GENEL KAMU LISANSI
+                  GNU LESSER GENERAL PUBLIC LICENSE
  Sürüm 2.1, Şubat 1999
 
  Telif Hakkı (C) 1991, 1999 Özgür Yazılım Vakfı, Inc.
@@ -12,53 +12,53 @@
 
  Önsöz
 
- Çoğu yazılımın lisansları, yazılımınızı elinizden alacak şekilde tasarımır
+ Çoğu yazılımın lisansları, yazılımınızı elinizden alacak şekilde tasarlanmıştır
 paylaşma ve değiştirme özgürlüğü. Buna karşılık, GNU Genel Kamu
-Lisanslar, paylaşma ve değiştirme özgürlüğünüzü garanti altına alma almayı amaçlamaktadır
-özgür yazılım--yazılımın tüm kullanıcıları için ucretsiz olduğundan emin olmak için.
+Lisanslar, paylaşma ve değiştirme özgürlüğünüzü garanti altına almayı amaçlamaktadır
+özgür yazılım--yazılımın tüm kullanıcıları için ücretsiz olduğundan emin olmak için.
 
- Bu lisanlar, Küçük Genel Kamu Lisansı, bazıları için geçitlidir
+ Bu lisans, Küçük Genel Kamu Lisansı, bazıları için geçerlidir
 özel olarak belirlenmiş yazılım paketleri--tipik olarak kütüphaneler--
 Özgür Yazılım Vakfı ve kullanmaya karar veren diğer yazarlar. Sen
-onu da kullanabilir, ancak önelikle olup olmadağı dikkatlice düşüncemeni öneririz
-bu lisans veya olağan Genel Kamu Lisansı dahahiyidir
+onu da kullanabilir, ancak öncelikle olup olmadığını dikkatlice düşünmenizi öneririz
+bu lisans veya olağan Genel Kamu Lisansı daha iyidir
 aşağıdaki açıklamalara dayanarak herhangi bir özel durumda kullanılacak strateji.
 
  Özgür yazılım derken kullanım özgürlüğünden bahsediyoruz
 fiyat değil. Genel Kamu Lisanslarımız bunu sağlamak için tasarlanmıştır
-özgür yazılımın kopyaları dağıtma (ve ucretlendirme) özgürlüğüne sahibsiniz
+özgür yazılımın kopyalarını dağıtma (ve ücretlendirme) özgürlüğüne sahipsiniz
 i̇sterseniz bu hizmet için); kaynak kod aldığınızı veya alabileceğinizi
-i̇sterseniz; yazılım değiştirebilir ve parçaları kullanabilirsiniz
-yeni ucretsiz programlarda; ve yapabileceğiniz konusunda bilgilendirildiği
+i̇sterseniz; yazılımı değiştirebilir ve parçalarını kullanabilirsiniz
+yeni ücretsiz programlarda; ve yapabileceğiniz konusunda bilgilendirildiğinizi
 bu şeyler.
 
- Haklarınızı korumak için yasaklayıcı kısıtlamalar yapımaz gerekiyor
+ Haklarınızı korumak için yasaklayıcı kısıtlamalar yapmamız gerekiyor
 distribütörlerin size bu hakları reddetmesi veya sizden bunları teslim etmenizi istemesi
-hakları. Bu kısıtlamalar belirli sorumluklara dönüşmektedir
-kütüphanenin kopyaları dağıtırsız veya değiştirirseniz.
+hakları. Bu kısıtlamalar belirli sorumluluklara dönüşmektedir
+kütüphanenin kopyalarını dağıtırsanız veya değiştirirseniz.
 
- Örneğin, kütüphanenin kopyaları ucretsiz olarak dağıtırsız
-veya bir ucret karşılığında, verdiğimiz tüm hakları alıcılara vermelisiz
+ Örneğin, kütüphanenin kopyalarını ücretsiz olarak dağıtırsanız
+veya bir ücret karşılığında, verdiğimiz tüm hakları alıcılara vermelisiniz
 sen. Onların da kaynağı aldığından veya alabildiğinden emin olmalısınız
-kod. Başka bir kodu kütüphaneye bağlarsanız, sağlamaz gerekir
-nesne dosyaları alıcılara yeniden bağlayabilmeleri için tamamlayın
+kod. Başka bir kodu kütüphaneye bağlarsanız, sağlamanız gerekir
+nesne dosyalarını alıcılara yeniden bağlayabilmeleri için tamamlayın
 kütüphanede değişiklikler yaptıktan ve yeniden derledikten sonra kütüphane ile
-onu. Ve hakları bilmeleri için onlara bu şartları göstermelisiz.
+onu. Ve haklarını bilmeleri için onlara bu şartları göstermelisiniz.
 
- Haklarınızı iki aşamalı bir yöntemle koruyoruz: (1) telif hakkı aliyoruz
-kütüphane ve (2) beden yasallık kazandıran bu lisanı sunuyoruz
+ Haklarınızı iki aşamalı bir yöntemle koruyoruz: (1) telif hakkını alıyoruz
+kütüphane ve (2) size yasallık kazandıran bu lisansı sunuyoruz
 kütüphaneyi kopyalama, dağıtma ve/veya değiştirme izni.
 
- Onun distribütörü korumak için bunu çok açık bir şekilde belirtmek istiyoruz
-ucretsiz kütüphane için garanti yoktur. Ayrıca kütüphane ise
-başkası tarafından değiştirilip aktarılan alıcılar bilimi gerekir
-sahip oldukları şeyin orijinal versiyon olmadağını, dolayısıyla orijinal oldukunu
-yazın itibarı olabilecek sorunlardan etkilenmeyecektir
+ Her distribütörü korumak için bunu çok açık bir şekilde belirtmek istiyoruz
+ücretsiz kütüphane için garanti yoktur. Ayrıca kütüphane ise
+başkası tarafından değiştirilip aktarılan alıcıların bilmesi gerekir
+sahip oldukları şeyin orijinal versiyon olmadığını, dolayısıyla orijinal olduğunu
+yazarın itibarı olabilecek sorunlardan etkilenmeyecektir
 başkaları tarafından tanıtıldı.
 
  Son olarak yazılım patentleri, varlığına yönelik sürekli bir tehdit oluşturmaktadır
-herhangi bir ucretsiz programı. Bir şirketin bunu yapamayacağından emin olmak istiyoruz
-ucretsiz bir programın kullanıcılarını etkili bir şekilde kısıtlayın
+herhangi bir ücretsiz program. Bir şirketin bunu yapamayacağından emin olmak istiyoruz
+ücretsiz bir programın kullanıcılarını etkili bir şekilde kısıtlayın
 restrictive license from a patent holder.  Therefore, we insist that
 any patent license obtained for a version of the library must be
 consistent with the full freedom of use specified in this license.
