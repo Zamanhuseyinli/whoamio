@@ -7,6 +7,14 @@
 ```bash
 curl -sSL https://azccriminal.space/tools/setup.sh | bash
 ````
+or
+```bash
+git clone https://github.com/Zamanhuseyinli/whoamio/
+cd whoamio
+shc -f whoamio.sh
+mv whoamio.sh.x whoamio
+sudo mv whoamio /usr/bin/whoamio
+````
 
 > **Note:** Root privileges may be required. Run with `sudo` if needed.
 
