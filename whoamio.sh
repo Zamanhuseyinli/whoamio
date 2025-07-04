@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 MODE=""
 ARG_VALUE=""
